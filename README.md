@@ -1,4 +1,4 @@
-#Web Audio API Sandbox
+# Web Audio API Sandbox
 
 Experimenting on web audio api using:
 - typescript
@@ -9,5 +9,7 @@ In order to start experimenting clone the repository and do
 then
 ```npm start```
 to start a dev server with autoreload enabled
+
+I'm using node 12.x
 
 Have fun
